@@ -14,6 +14,8 @@ When you get Area code you should collect information about geo_count from data.
 
 You should output only integer value in terminal as result.
 
+**If location is not found then output is 0.**
+
 You should submit your program as result.py file.
 
 ### File description:
