@@ -18,8 +18,11 @@ You should submit your program as result.py file.
 
 File description:
 data.csv - regional information by region code. No region name is available.
+
 description.xslx - region code transcription
+
 source.py - program template
+
 setup.txt - used library list
 
 
