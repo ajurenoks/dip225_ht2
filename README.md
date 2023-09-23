@@ -2,11 +2,11 @@
 
 This is secont practical task for study course DIP225. 
 
-Your task is to work with XSLX and CSV file and get geo_count information values SUM about entered region.
+Your task is to work with XLSX and CSV file and get geo_count information values SUM about entered region.
 
 User should enter region name for example Ahipara.
 
-Program should identify Region code based on Region name. This information is available in description.xslx file. 
+Program should identify Region code based on Region name. This information is available in description.xlsx file. 
 
 In this program we will use pandas library to read data from xlsx file.
 
